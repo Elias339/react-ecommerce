@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "How to write react code??",
+        "image": "/images/blog-1.jpeg",
+        "category": [
+            "Business",
+            "Marketing",
+            "Social Media"
+        ],
+        "author": "Editor",
+        "date": "April 5, 2025",
+        "pera": "Why you need to learn react just see and read."
+    },
+    {
+        "id": 2,
+        "title": "ABCD to write react code??",
+        "image": "/images/blog-2.jpeg",
+        "category": [
+            "Business",
+            "Marketing",
+            "Social Media"
+        ],
+        "author": "Editor",
+        "date": "April 6, 2025",
+        "pera": "Why you need to learn react just see and read."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "image": "/images/product-1.jpeg",
+        "secondImage": "/images/product-2.jpeg",
+        "name": "Adi jndkd kdjfsdksdfk",
+        "offerPrice": 63,
+        "price": 60
+    },
+
+    {
+        "id":2,
+        "image": "/images/product-3.jpeg",
+        "secondImage": "/images/product-4.jpeg",
+        "name": "bbdi jndkd kdjfsdksdfk",
+        "offerPrice": 63,
+        "price": 60
+    },
+
+    {
+        "id":4,
+        "image": "/images/product-7.jpeg",
+        "secondImage": "/images/product-8.jpeg",
+        "name": "Adi jndkd kdjfsdksdfk",
+        "offerPrice": 63,
+        "price": 60
+    }
+]
