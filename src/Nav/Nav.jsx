@@ -41,7 +41,7 @@ function Nav(){
                 </button>
 
                 <div className="collapse navbar-collapse" id="navbarNav">
-                    <ul className="menu navbar-nav d-flex justify-content-center align-items-center gap-3">
+                    <ul className="menu navbar-nav d-flex justify-content-center gap-3 align-items-center">
                         <li className="nav-item"><a href="#">Home</a></li>
                         <li className="nav-item"><a href="#">About</a></li>
                         <li className="nav-item"><a href="#">Shop</a></li>
@@ -57,7 +57,6 @@ function Nav(){
                         </li>
                     </ul>
                 </div>
-
             </nav>
         </div>
     </>
